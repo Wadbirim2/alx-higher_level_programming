@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 # 8-multiple_returns.py
 # Brennan D Baraban <375@holbertonschool.com>
 
